@@ -1,0 +1,5 @@
+[20-Dec-2022 02:16:14 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home/travelt3/api.traveltoria.my.id/vendor/composer/platform_check.php on line 24
+[21-Dec-2022 07:01:43 Asia/Jakarta] PHP Fatal error:  Cannot redeclare App\Http\Controllers\PesawatController::show() in /home/travelt3/api.traveltoria.my.id/app/Http/Controllers/PesawatController.php on line 100
+[21-Dec-2022 07:02:25 Asia/Jakarta] PHP Fatal error:  Cannot redeclare App\Http\Controllers\PesawatController::show() in /home/travelt3/api.traveltoria.my.id/app/Http/Controllers/PesawatController.php on line 100
+[21-Dec-2022 07:02:39 Asia/Jakarta] PHP Fatal error:  Cannot redeclare App\Http\Controllers\PesawatController::show() in /home/travelt3/api.traveltoria.my.id/app/Http/Controllers/PesawatController.php on line 100
+[21-Dec-2022 07:03:23 Asia/Jakarta] PHP Fatal error:  Cannot redeclare App\Http\Controllers\PesawatController::show() in /home/travelt3/api.traveltoria.my.id/app/Http/Controllers/PesawatController.php on line 100
